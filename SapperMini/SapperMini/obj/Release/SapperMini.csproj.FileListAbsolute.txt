@@ -1,0 +1,11 @@
+C:\Users\LIAR\source\repos\SapperMini\SapperMini\bin\Release\SapperMini.exe.config
+C:\Users\LIAR\source\repos\SapperMini\SapperMini\bin\Release\SapperMini.exe
+C:\Users\LIAR\source\repos\SapperMini\SapperMini\bin\Release\SapperMini.pdb
+C:\Users\LIAR\source\repos\SapperMini\SapperMini\obj\Release\SapperMini.csproj.AssemblyReference.cache
+C:\Users\LIAR\source\repos\SapperMini\SapperMini\obj\Release\SapperMini.FormGeneral.resources
+C:\Users\LIAR\source\repos\SapperMini\SapperMini\obj\Release\SapperMini.Properties.Resources.resources
+C:\Users\LIAR\source\repos\SapperMini\SapperMini\obj\Release\SapperMini.csproj.GenerateResource.cache
+C:\Users\LIAR\source\repos\SapperMini\SapperMini\obj\Release\SapperMini.csproj.CoreCompileInputs.cache
+C:\Users\LIAR\source\repos\SapperMini\SapperMini\obj\Release\SapperMini.exe
+C:\Users\LIAR\source\repos\SapperMini\SapperMini\obj\Release\SapperMini.pdb
+C:\Users\LIAR\source\repos\SapperMini\SapperMini\obj\Release\SapperMini.FormCustomCreate.resources

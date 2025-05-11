@@ -1,0 +1,10 @@
+C:\Users\LIAR\source\repos\SapperMini\SapperMini\bin\Debug\SapperMini.exe.config
+C:\Users\LIAR\source\repos\SapperMini\SapperMini\bin\Debug\SapperMini.exe
+C:\Users\LIAR\source\repos\SapperMini\SapperMini\bin\Debug\SapperMini.pdb
+C:\Users\LIAR\source\repos\SapperMini\SapperMini\obj\Debug\SapperMini.csproj.AssemblyReference.cache
+C:\Users\LIAR\source\repos\SapperMini\SapperMini\obj\Debug\SapperMini.Properties.Resources.resources
+C:\Users\LIAR\source\repos\SapperMini\SapperMini\obj\Debug\SapperMini.csproj.GenerateResource.cache
+C:\Users\LIAR\source\repos\SapperMini\SapperMini\obj\Debug\SapperMini.csproj.CoreCompileInputs.cache
+C:\Users\LIAR\source\repos\SapperMini\SapperMini\obj\Debug\SapperMini.exe
+C:\Users\LIAR\source\repos\SapperMini\SapperMini\obj\Debug\SapperMini.pdb
+C:\Users\LIAR\source\repos\SapperMini\SapperMini\obj\Debug\SapperMini.FormGeneral.resources
